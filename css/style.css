@@ -1222,7 +1222,7 @@ nav a.to-right:hover .arrow-label
 .home-section .guide{
 	position:absolute;
 	bottom:50px;
-	width:200px;
+	/* width:200px; */
 	height:auto;
 	-webkit-backface-visibility:hidden; 
 }
